@@ -1,6 +1,6 @@
 # ============================================================
 # OHM'S LAW AND POWER CALCULATOR
-# Author: [Your Full Name]
+# Author: Segbedeji Folorunsho Emmanuel
 # ND1 Mechatronics Engineering, YabaTech
 # ------------------------------------------------------------
 # This program calculates Voltage, Current, Resistance or Power
