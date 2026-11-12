@@ -12,3 +12,40 @@ Install Python 3, then run:
 ```bash
 python3 ohms_law.py
 ```
+
+## Sample output
+```text
+===== OHM'S LAW CALCULATOR =====
+1. Perform Calculation
+2. Smart Solve (enter any two values)
+3. View Calculation History
+4. Clear History
+5. Quit
+Enter your choice (1-5): 2
+
+--- SMART SOLVE (enter any TWO known values) ---
+Leave a value blank if you don't know it.
+You must provide exactly two values.
+
+Voltage (V)     : 12
+Current (A)     : 2
+Resistance (Ohm): 
+Power (W)       : 
+
+===== SMART SOLVE RESULT =====
+Voltage    = 12.00 V
+Current    = 2.00 A
+Resistance = 6.00 Ohm
+Power      = 24.00 W
+
+===== OHM'S LAW CALCULATOR =====
+1. Perform Calculation
+2. Smart Solve (enter any two values)
+3. View Calculation History
+4. Clear History
+5. Quit
+Enter your choice (1-5): 3
+
+===== CALCULATION HISTORY =====
+1. Smart Solve -> V=12.00V, I=2.00A, R=6.00Ohm, P=24.00W
+```
